@@ -1,0 +1,173 @@
+body {
+    background: url(../assets/back.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+
+
+
+h1 {
+    font-family: 'Press Start 2P', system-ui;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    color: #223954;
+    padding-top: 50px;
+}
+
+.same {
+    display: inline;
+}
+
+.homeBtns {
+    width: 70%;
+    border: 5px solid #223954;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #223954;
+    --bs-btn-hover-border-color: #223954; 
+    --bs-btn-active-bg: #142232;
+    --bs-btn-active-border-color: #142232;
+    font-family: 'Press Start 2P';
+    font-size: 25px;
+    color: #223954;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, .7);
+}
+/* 
+.row>* {
+    width: 50%;
+} */
+
+/* .buttonPlacement {
+    text-decoration: none; 
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+} */
+
+.backBtn {
+    font-family: 'Press Start 2P';
+    font-size: 13px;
+    color: #223954;
+    background-color: rgba(255, 255, 255, .7);
+    border: 5px solid #223954;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #223954;
+    --bs-btn-hover-border-color: #223954; 
+    --bs-btn-active-bg: #142232;
+    --bs-btn-active-border-color: #142232;
+    border-radius: 15px;
+}
+
+.vsFont {
+    font-family: 'Press Start 2P';
+    font-size: 50px;
+    color: #223954;
+    text-align: center;
+}
+
+.scoreBorders {
+    border: 5px solid #223954;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: 'Press Start 2P';
+    font-size: 20px;
+    text-align: center;
+    color: #223954;
+    background-color: rgba(255, 255, 255, .7);
+    margin-top: 20px;
+}
+
+.images {
+    width: 150px;
+    height: 150px;
+}
+
+.playerFont {
+    font-family: 'Press Start 2P';
+    font-size: 25px;
+    color: #223954;
+    text-align: center;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+.choiceBtns {
+    margin-top: 5px;
+    background-color: rgba(255, 255, 255, .7);
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #223954;
+    --bs-btn-hover-border-color: #223954; 
+    --bs-btn-active-bg: #142232;
+    --bs-btn-active-border-color: #142232;
+    font-family: 'Press Start 2P';
+    font-size: 15px;
+    border: 3px solid #223954;
+    border-radius: 15px;
+    color: #223954;
+}
+
+
+.extraFont {
+    font-family: 'Press Start 2P';
+    color: #223954;
+    text-align: center;
+}
+
+.rulesFont {
+    border: 5px solid #223954;
+    background-color: rgba(255, 255, 255, .7);
+    color: #223954;
+    font-family: 'Press Start 2P';
+    font-size: 25px;
+    text-align: center;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.modalFont {
+    font-size: 15px;
+    font-family: 'Press Start 2P';
+    color: #223954;
+}
+
+.matchBtn {
+        font-family: 'Press Start 2P';
+        font-size: 20px;
+        color: #223954;
+        background-color: rgba(255, 255, 255, .7);
+        border: 5px solid #223954;
+        --bs-btn-hover-color: #fff;
+        --bs-btn-hover-bg: #223954;
+        --bs-btn-hover-border-color: #223954; 
+        --bs-btn-active-bg: #142232;
+        --bs-btn-active-border-color: #142232;
+        border-radius: 15px;
+}
+
+.endBtns{
+    font-family: 'Press Start 2P';
+    font-size: 15px;
+    color: #223954;
+    background-color: rgba(255, 255, 255, .7);
+    border: 5px solid #223954;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #223954;
+    --bs-btn-hover-border-color: #223954; 
+    --bs-btn-active-bg: #142232;
+    --bs-btn-active-border-color: #142232;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.endFont {
+    font-family: 'Press Start 2P';
+    font-size: 35px;
+    font-weight: bolder;
+    color: #223954;
+    text-align: center;
+    margin-top: 100px;
+}
